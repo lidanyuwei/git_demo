@@ -64,7 +64,7 @@ public class MD5Util {
 	       System.out.println("MD5后：" + string2MD5(s2));  
 	       System.out.println("加密的：" + convertMD5(s2));  
 	       System.out.println("解密的：" + convertMD5(convertMD5(s2))); 
-	       
+	       System.out.println("dvrfbtrfbt");
 	       System.out.println(string2MD5(s2).equals(string2MD5(s)));
 	  
 	    }  
